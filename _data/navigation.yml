@@ -21,5 +21,6 @@ main:
   - title: "About"
     url: /about/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Inbox"
+   # url: /markdown/
+    url: /inbox/
