@@ -1,7 +1,7 @@
 ---
 title: 'A sticky Post'
 date: 2023-05-19
-permalink: /posts/2014/08/blog-post-3/
+permalink: /posts/2023/05/a-sticky-post/
 tags:
   - How-to
   - Productivity
